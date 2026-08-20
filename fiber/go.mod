@@ -2,7 +2,7 @@ module github.com/azureossd/go-deployment-samples/fiber
 
 go 1.20
 
-require github.com/gofiber/fiber/v2 v2.52.14
+require github.com/gofiber/fiber/v2 v2.52.15
 
 require (
 	github.com/andybalholm/brotli v1.1.0 // indirect
